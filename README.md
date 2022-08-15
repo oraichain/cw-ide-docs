@@ -19,3 +19,7 @@ CosmWasm IDE comprises three distinct modules divided into three repositories, e
 
 * [CosmWasm IDE Gitpod](https://github.com/oraichain/cosmwasm-gitpod) - The IDE's gitpod configuration, which serves as an entrypoint to create a complete working environment for
 developing CosmWasm smart contracts.
+
+## Table of contents
+
+Please refer to [this](./SUMMARY.md) for the table of contents
