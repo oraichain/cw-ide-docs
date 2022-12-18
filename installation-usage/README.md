@@ -6,7 +6,7 @@ This section describes a set of tutorials that the CosmWasm developers can follo
 
 ### 1. The first step is to setup the working environment to develop CosmWasm smart contracts.
 
-* [Gitpod environment](./gitpod-tutorial.md) - ultilizing Gitpod to set up the smart contract development environment automatically. Since this guideline makes use of VSCode browser, developers can use Keplr Wallet to create & broadcast transactions, which is already integrated in the IDE.
+* [Github Codespace environment](./github-codespace-tutorial.md) - ultilizing Github Codespace to set up the smart contract development environment automatically. Since this guideline makes use of VSCode browser, developers can use Keplr Wallet to create & broadcast transactions, which is already integrated in the IDE.
 
 * [Local environment](./local-tutorial.md) - manually installing neccessary tools and using VSCode locally. This method will not work with Keplr Wallet, and you will need a .env file located in the root location of the workspace to interact with the contracts. 
 

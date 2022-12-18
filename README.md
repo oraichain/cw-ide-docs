@@ -17,8 +17,7 @@ CosmWasm IDE comprises three distinct modules divided into three repositories, e
 
 * [CosmWasm IDE Webview](https://github.com/oraichain/cw-ide-webview) - The IDE's webview, which contains the IDE UI including Cosmos networks and Keplr Wallet interaction.
 
-* [CosmWasm IDE Gitpod](https://github.com/oraichain/cosmwasm-gitpod) - The IDE's gitpod configuration, which serves as an entrypoint to create a complete working environment for
-developing CosmWasm smart contracts.
+* [CosmWasm IDE Github Codespace](https://github.com/oraichain/cw-ide-codespace-template) - The IDE's Github Codespace configuration, which serves as a template to create a complete working environment for developing CosmWasm smart contracts.
 
 ## Table of contents
 
