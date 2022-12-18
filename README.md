@@ -11,14 +11,20 @@ This repository contains a complete documentation of the CosmWasm IDE, a VSCode 
     CosmosWasm IDE - An open-source project for CosmWasm smart contract developers. Powered by Oraichain & CosmWasm
 </h1>
 
+![flow](./assets/flow.gif)
+
 CosmWasm IDE comprises three distinct modules divided into three repositories, each of which is responsible for a specific task.
 
-* [CosmWasm IDE Extension](https://github.com/oraichain/cw-vscode) - The core IDE VSCode extension, which handles all the interaction processes between your workspace & the IDE.
+- [CosmWasm IDE Extension](https://github.com/oraichain/cw-vscode) - The core IDE VSCode extension, which handles all the interaction processes between your workspace & the IDE.
 
-* [CosmWasm IDE Webview](https://github.com/oraichain/cw-ide-webview) - The IDE's webview, which contains the IDE UI including Cosmos networks and Keplr Wallet interaction.
+- [CosmWasm IDE Webview](https://github.com/oraichain/cw-ide-webview) - The IDE's webview, which contains the IDE UI including Cosmos networks and Keplr Wallet interaction.
 
 * [CosmWasm IDE Github Codespace](https://github.com/oraichain/cw-ide-codespace-template) - The IDE's Github Codespace configuration, which serves as a template to create a complete working environment for developing CosmWasm smart contracts.
 
 ## Table of contents
 
 Please refer to [this](./SUMMARY.md) for the table of contents
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
